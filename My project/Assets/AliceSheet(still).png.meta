@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 9fc7f09726a2b3141a9cff67c56fb8b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6689274494321333317
+    second: AliceSheet(still)_0
+  - first:
+      213: -6539056347845813131
+    second: AliceSheet(still)_1
+  - first:
+      213: -6540227202015853739
+    second: AliceSheet(still)_2
+  - first:
+      213: 8715290071446240519
+    second: AliceSheet(still)_3
+  - first:
+      213: -6284257901940915631
+    second: AliceSheet(still)_4
+  - first:
+      213: 1417541055588556485
+    second: AliceSheet(still)_5
+  - first:
+      213: 5619627913416938421
+    second: AliceSheet(still)_6
+  - first:
+      213: -3413326531911649461
+    second: AliceSheet(still)_7
+  - first:
+      213: -1866729468902006292
+    second: AliceSheet(still)_8
+  - first:
+      213: -6497777796079163557
+    second: AliceSheet(still)_9
+  - first:
+      213: 8700034025903863665
+    second: AliceSheet(still)_10
+  - first:
+      213: -3637173746159250653
+    second: AliceSheet(still)_11
+  - first:
+      213: 4884328568795844866
+    second: AliceSheet(still)_12
+  - first:
+      213: -5075955166485942846
+    second: AliceSheet(still)_13
+  - first:
+      213: -8733074138295977228
+    second: AliceSheet(still)_14
+  - first:
+      213: -1196725914114261683
+    second: AliceSheet(still)_15
+  - first:
+      213: -1509776689742891507
+    second: AliceSheet(still)_16
+  - first:
+      213: 2938945038857782484
+    second: AliceSheet(still)_17
+  - first:
+      213: -6025775538428649428
+    second: AliceSheet(still)_18
+  - first:
+      213: 2972068419532604716
+    second: AliceSheet(still)_19
+  - first:
+      213: -4522599723738867934
+    second: AliceSheet(still)_20
+  - first:
+      213: 6447566862084103443
+    second: AliceSheet(still)_21
+  - first:
+      213: 499680223569775270
+    second: AliceSheet(still)_22
+  - first:
+      213: 2749075181036226879
+    second: AliceSheet(still)_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AliceSheet(still)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb65e8e94cea23a0800000000000000
+      internalID: -6689274494321333317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5538f79e2027c35a0800000000000000
+      internalID: -6540227202015853739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ceddcbb4d9c8a0800000000000000
+      internalID: -6284257901940915631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce53e0641e1ca310800000000000000
+      internalID: 1417541055588556485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3161d20ddecfd40800000000000000
+      internalID: 5619627913416938421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477df29a9d61a0d0800000000000000
+      internalID: -3413326531911649461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e74b658143d5a0800000000000000
+      internalID: -6497777796079163557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3231dc99fb9268dc0800000000000000
+      internalID: -3637173746159250653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015e5d74fe98c340800000000000000
+      internalID: 4884328568795844866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdebcd6ba59e89b0800000000000000
+      internalID: -5075955166485942846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_14
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab7bd4753edc680800000000000000
+      internalID: -8733074138295977228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_16
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b5bd89123c0be0800000000000000
+      internalID: -1509776689742891507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e8bfd215206ca0800000000000000
+      internalID: -6025775538428649428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_19
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c56a1b78ee3920800000000000000
+      internalID: 2972068419532604716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AliceSheet(still)_20
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 18
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d345538f7c31c0800000000000000
+      internalID: -4522599723738867934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

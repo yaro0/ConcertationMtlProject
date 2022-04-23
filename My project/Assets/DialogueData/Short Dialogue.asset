@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b762696d1cc2d49bc774f47fa71e3c, type: 3}
+  m_Name: Short Dialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Alice
+  - '. . .
+
+'
+  - "Zut! \n\xC7a marche pas! "
+  - " Ca doit etre un bug dans le jeu, j'avais pas encore fini de tester cette partie.
+    \n"
+  - 'Comment est-ce que je vais faire pour franchir la porte?
+
+'

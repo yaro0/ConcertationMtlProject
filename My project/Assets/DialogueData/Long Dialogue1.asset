@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b762696d1cc2d49bc774f47fa71e3c, type: 3}
+  m_Name: Long Dialogue1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Alice et lapin
+  - "O\xF9 suis-je?!"
+  - Nous sommes dans ton jeu!
+  - "Eh! \nTu peux parler??? Et surtout,       \nTU EST R\xC9EL???"
+  - "Bien s\xFBr que oui! Je suis l\xE0 pour t\u2019aider."
+  - "Ummm\u2026 Dans le film Alice au pays des merveilles, elle boit une potion qui
+    la raccourcit pour franchir la porte. \n"
+  - Je vois un beau verre rempli d'une substane systerieuse devant toi!
+  - Bon, je devrais probablement essayer de le boir...esperons que je vais survivre.
