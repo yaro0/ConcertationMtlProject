@@ -37,6 +37,89 @@ Second Level
 We used C# and unity to code the game.
 
 ## Example of code:
+Code that is behind the "fake code" in level two
+```
+ public async void ReadStringInput(string input, string x)
+    {
+        //input = s;
+        float numErreur = 0;
+        bool valid = true;
+        string scale = "";
+        float scaleFloat;
 
 
+        if (input.Length >= 2)
+        {
+            for (int i = 0; i <= input.Length - 2; i++)
+            {
+                valid = (char.IsDigit(input[i]) || input[i] == '.');
 
+                if (valid)
+                {
+                    //Debug.Log(input + " is valid");
+                    scale += input[i];
+                }
+                else if (!valid)
+                {
+                    numErreur++;
+                }
+
+            }
+
+            if (!(input[input.Length - 1] == ';'))
+            {
+                numErreur++;
+            }
+        }
+        
+        else
+        {
+            numErreur++;
+        }
+
+        
+
+
+        if (numErreur == 0 && x == "w")
+        {
+            //Debug.Log(input.Length);
+            scaleFloat = float.Parse(scale);
+            changeWidth(scaleFloat);
+        }
+        else if (numErreur == 0 && x == "h")
+        {
+            scaleFloat = float.Parse(scale);
+            changeHeight(scaleFloat);
+        }
+        else if (numErreur != 0 && x == "w")
+        {
+            changeWidth(0);
+        }
+        else if (numErreur != 0 && x == "h")
+        {
+            changeHeight(0);
+        }
+    }
+
+    public void changeWidth(float w)
+    {
+         float xScale = w / 40;
+         transform.localScale = new Vector2(xScale, transform.localScale.y);
+
+        //transform.position = new Vector2(transform.position.x, (float)(-3 + transform.localScale.y / 2));
+        /*
+        transform.localScale = new Vector2(w, transform.localScale.y);
+        transform.position = new Vector2(transform.position.x, (float)(-3 + transform.localScale.y / 2));
+        */
+    }
+    public void changeHeight(float h)
+    {
+        float yScale = h / 80;
+         transform.localScale = new Vector2(transform.localScale.y, yScale);
+         transform.position = new Vector2(transform.position.x, -2.873f);
+        //transform.localScale = new Vector2(transform.localScale.x, h);
+
+    }
+```
+## How to play
+The game is still in the making but you can play the current demo on itch.io : https://yaro0.itch.io/alice-in-code-land
