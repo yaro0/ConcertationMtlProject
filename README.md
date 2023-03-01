@@ -25,4 +25,4 @@ This allows us to get our idea accross and show off some key mechanics.
 - Player realizes that it needs to change lines of code to change the width of the door.
 
 ## Screenshots
-![My Image](gamePhoto1.jpg)
+![gamePhoto1](gamePhoto1.png)
