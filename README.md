@@ -6,7 +6,7 @@
 - Sound: Kaitlin May Wong
 
 ## Motivation
-We build this game with the intention of creating a unique and fun way for people to learn the idea and basics of coding. It is amed towards complete beginners but can be fun for anyone.
+We build this game with the intention of creating a unique and fun way for people to learn the idea and basics of coding. It is aimed towards complete beginners but can be fun for anyone. The game is going to be composed of some simple code related puzzles and some in between levels without code that are simply meant to be fun.
 
 ## Build Status
 The game is currently in a demo status with two functionnal levels.
@@ -18,11 +18,17 @@ This allows us to get our idea accross and show off some key mechanics.
 - Dialogue in all levels
 - Hints from Bunny character
 - Ambient music
-- 1st level: 
-- character is falling and the player must avoid obstacle for a certain amount of time.
-- 2nd level:
+
+1st level: 
+- Alice is falling into another universe and the player must collect 10 watches to make it to the next level.
+- If the player hits another object they lose a watch.
+
+2nd level:
+- Character falls into this level
 - Player must find a way to fit Alice through a door. 
 - Player realizes that it needs to change lines of code to change the width of the door.
+- Reaction dialogue to the changes the player makes to the code.
+- Alice can goes through the door once the player sets in to be the right size.
 
 ## Screenshots
 First Level
