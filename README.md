@@ -1,4 +1,5 @@
 # ConcertationMtlProject: Alice in Code Land
+Alice in Code Land is an educationnal video game that mixes code and puzzle games together. It aims to create a fun new way to get complete beginners introduced to the concept of code. The game is composed of some simple code related puzzles and some "in between" levels without code that are simply meant to be fun. Alice in Code Land also has a fun and wacky story line that keeps players engaged.
 
 ## Credits
 - Programming: Yaroslava Kost
@@ -6,7 +7,7 @@
 - Sound: Kaitlin May Wong
 
 ## Motivation
-We build this game with the intention of creating a unique and fun way for people to learn the idea and basics of coding. It is aimed towards complete beginners but can be fun for anyone. The game is going to be composed of some simple code related puzzles and some in between levels without code that are simply meant to be fun.
+We build this game with the intention of creating a unique and fun way for people to learn the idea and basics of coding. It is aimed towards complete beginners but can be fun for anyone. 
 
 ## Build Status
 The game is currently in a demo status with two functionnal levels.
