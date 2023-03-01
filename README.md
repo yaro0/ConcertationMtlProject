@@ -1,6 +1,6 @@
-# ConcertationMtlProject
-# Alice in Code Land
+# ConcertationMtlProject: Alice in Code Land
 
+## Credits
 Programming: Yaroslava Kost
 Art: Heba Jawad, Kaitlin May Wong, Yaroslava Kost
 Sound: Kaitlin May Wong
